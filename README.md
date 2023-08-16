@@ -1,8 +1,11 @@
 # qrcodegen
 ## Your QRCode generator with name organization
-
 ### Before running the code:
-**Make sure you have python installed on your machine**
-https://www.python.org/downloads/
-**Then, install the `qrcode` package:**
-`pip install qrcode`
+### Make sure you have [Python](https://www.python.org/downloads/) installed on your machine:
+```
+python --version
+```
+### Then, install the `qrcode` package:
+```
+pip install qrcode
+```
