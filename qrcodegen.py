@@ -14,4 +14,3 @@ if "myqrcode.png" in os.listdir():
     img.save(os.getcwd() + "\\" + file_name)
 else:
     img.save(os.getcwd() + "\\myqrcode.png")
-    grttrhtrh
