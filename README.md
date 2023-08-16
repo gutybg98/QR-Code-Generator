@@ -5,7 +5,7 @@
 ```
 python --version
 ```
-### Then, install the `qrcode` package:
+### Install the `qrcode` package:
 ```
 pip install qrcode
 ```
