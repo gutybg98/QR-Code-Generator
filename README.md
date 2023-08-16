@@ -2,4 +2,4 @@
 ## Your QRCode generator with name organization
 
 ### Before running the code:
-'pip install qrcode'
+`pip install qrcode`
