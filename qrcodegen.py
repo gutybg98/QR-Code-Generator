@@ -11,6 +11,6 @@ if "myqrcode.png" in os.listdir():
     while file_name in os.listdir():
         counter += 1
         file_name = "myqrcode(" + str(counter) + ").png"
-    img.save(os.getcwd() + "\\" + file_name)
+    img.save(os.getcwd() + "/" + file_name)
 else:
-    img.save(os.getcwd() + "\\myqrcode.png")
+    img.save(os.getcwd() + "/myqrcode.png")
